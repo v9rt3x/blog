@@ -1,21 +1,29 @@
-name: Push to GitHub Pages on push to master
-on:
-  push:
-    branches:
-      - master
+name: Deploy
+on: [push]
 jobs:
   build:
+    name: Build
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout master
-      uses: actions/checkout@v1
-      #with:
-        #submodules: true
-    - name: Deploy the site
-      uses: benmatselby/hugo-deploy-gh-pages@master
-      env:
-        HUGO_VERSION: 0.60.1
-        TARGET_REPO: v9rt3x/v9rt3x.github.io
-        TOKEN: ${{ secrets.TOKEN }}
-        HUGO_ARGS: '--gc --minify --cleanDestinationDir'
-        CNAME: v9rt3x.github.io
+      - name: Check out code
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: Publish Site
+        uses: gohugoid/hugo-gh-pages@master
+        with:
+          githubToken: ${{ secrets.TOKEN }}
+          # Remember to set this as a secret (i.e. secrets.PERSONAL_TOKEN).
+          # Don't forget to set the secret value in the project settings.
+          #cname: gohugoid.github.io # Or anything else
+          # Use if you have a custom domain for your site.
+          branch: master # Or anything else
+          # Use if your site is not hosted on the gh-pages branch.
+          repo: v9rt3x/v9rt3x.github.io
+          # Use if your pushing to a different repo.
+          # Dont add ".git" to the end of the URL (youl'll get 404s).
+          hugoVersion: 0.62.0
+          # Use if your site requires a specific version of Hugo
+          # Append "extended_" to the begining to use Hugo Extended
+          args: --gc --minify --cleanDestinationDir -t aether
+          # Use if you want to pass some custom arguments to Hugo
