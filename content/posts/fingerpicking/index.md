@@ -22,4 +22,4 @@ that he wrote one of Chet's main songs. Loudermilk never recorded the song on it
 
 
 This recording is from me but with a big influence of Tommy Emmanuel.
-{{<aplayer title="Windy and Warm" author="Stephan" musicurl="/post/fingerpicking/windy_and_warm.mp3">}}
+{{<aplayer title="Windy and Warm" author="Stephan" musicurl="/posts/fingerpicking/windy_and_warm.mp3">}}

@@ -1,4 +1,4 @@
-baseURL = "https://v9rt3x.io/"
+baseURL = "https://v9rt3x.github.io"
 languageCode = "en"
 title = "Stephan's Blog"
 theme = "aether"
@@ -7,6 +7,6 @@ theme = "aether"
 [params]
 brand = "v9rt3x"
 description = "Music, Programming, Philosophy, Handcrafting"
-#homeimg = "URL to the image used for the home button at the bottom of each post - optional"
+#homeimg = "URL to the image used for the home button at the bottom of each posts - optional"
 #bgimg = "URL to the image used for the page background - optional"
 #rssinmenu = whether you would like a RSS feed link to appear in the navigation menu (true, false) - optional
