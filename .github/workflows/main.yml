@@ -17,5 +17,4 @@ jobs:
         HUGO_VERSION: 0.60.1
         TARGET_REPO: v9rt3x/v9rt3x.github.io
         TOKEN: ${{ secrets.TOKEN }}
-        HUGO_ARGS: '-t aether'
         CNAME: v9rt3x.github.io
