@@ -1,5 +1,4 @@
-name: Publish Docs
-
+name: Publish HUGO
 on:
   push:
     branches:
