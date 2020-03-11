@@ -1,5 +1,6 @@
 # This is a small Hugo project which builds static site content of my blog v9rt3x.github.io
 
+
 ### Useful commands:
 
 - ```hugo server -D``` to start hugo in development mode

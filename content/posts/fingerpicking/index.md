@@ -1,8 +1,8 @@
 ---
 title: "Windy and Warm"
 date: 2019-12-08T16:31:12+01:00
-description: "Hugo combined with the Aether theme turns easy to write markdown into powerful web pages.  KaTeX, Highlight.js, and Hugo provides the ability to create mathmatical symobols, equations, highlighted code, tables, lists, and much more."
-draft: true
+description: "The fingerpicking category is the place I'll write about an amazing area of guitar music namely fingerpicking. Beside that I'll also present some self-recorded stuff. Hope you'll enjoy."
+draft: false
 categories: ["Fingerpicking"]
 displayInMenu: false
 displayInList: true
@@ -21,5 +21,5 @@ of motives (musical fragments) in several music genres. When Loudermilk talked a
 that he wrote one of Chet's main songs. Loudermilk never recorded the song on its own. He passed away on September 21, 2016 and got 82 years old.
 
 
-This recording is from me but with big influence of Tommy Emmanuel. Hope you'll enjoy.
+Hope you'll enjoy this small excerpt. Recorded with a high quality microphone of an 120$ mobile phone.
 {{<aplayer title="Windy and Warm" author="Stephan" musicurl="/posts/fingerpicking/windy_and_warm.mp3">}}
