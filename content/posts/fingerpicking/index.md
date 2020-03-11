@@ -1,7 +1,7 @@
 ---
 title: "Windy and Warm"
 date: 2019-12-08T16:31:12+01:00
-description: "Hugo combined with the Aether theme turns easy to write markdown into powerful web pages.  KaTeX, Highlight.js, and Hugo provides the ability to create mathmatical symobols, equations, highlighted code, tables, lists, and much more."
+description: "The fingerpicking category is the place I'll write about an amazing area of guitar music namely fingerpicking. Beside that I'll also present some self-recorded stuff. Hope you'll enjoy."
 draft: true
 categories: ["Fingerpicking"]
 displayInMenu: false
