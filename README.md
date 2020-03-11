@@ -1,4 +1,4 @@
-# This is a small Hugo project which builds static site content of my Blog v9rt3x.github.io
+# This is a small Hugo project which builds static site content of my blog v9rt3x.github.io
 
 ### Useful commands:
 
