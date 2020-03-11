@@ -6,7 +6,7 @@
 - ```hugo -D``` to build static site content locally in ./public dir
 
 
-### General remarks
+### General remarks:
 
 - Don't forget to set the ```draft property``` of a blog-post to ```false```
   when trying to publish

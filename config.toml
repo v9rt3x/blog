@@ -6,7 +6,7 @@ theme = "aether"
 
 [params]
 brand = "v9rt3x"
-description = "Music, Programming, Philosophy, Handcrafting"
+description = "Music, Programming"
 #homeimg = "URL to the image used for the home button at the bottom of each posts - optional"
-#bgimg = "URL to the image used for the page background - optional"
+bgimg = "img/painting.png"
 #rssinmenu = whether you would like a RSS feed link to appear in the navigation menu (true, false) - optional
