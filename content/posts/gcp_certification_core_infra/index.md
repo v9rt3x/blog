@@ -1,7 +1,7 @@
 ---
 title: "Cloud Certification - Core Infrastructure"
 date: 2020-03-01T16:31:12+01:00
-description: "This is a series of the way of reaching the Associate GCP Cloud Certification. For each chapter you'll find kinda reference document like this. The certification includes 6 chapter. Enjoy reading the first."
+description: "This is a series of the way of reaching the Associate GCP Cloud Certification. For each chapter you'll find kinda reference document like this. The certification includes 4 chapter. This document comprehends the first one."
 draft: false
 categories: ["Certification"]
 displayInMenu: false
