@@ -2,13 +2,11 @@
 
 
 ### Useful commands:
-
 - ```hugo server -D``` to start hugo in development mode
 - ```hugo -D``` to build static site content locally in ./public dir
 
 
 ### General remarks:
-
 - Don't forget to set the ```draft property``` of a blog-post to ```false```
   when trying to publish
 - Use ```git commit --amend``` when disabling a blog-post

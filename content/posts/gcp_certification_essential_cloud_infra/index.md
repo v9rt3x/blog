@@ -294,7 +294,7 @@ Primary use case|General Workloads|Container Workloads|Scalable web apps, Mobile
 - Local SSD disks are physicall attached to a VM
 - RAM disk (use TMPFS if you want to store data in memory, best for small data structures)
 
-***Summary disk options:***
+### Summary disk options:
 |   |Persistent disk HDD|Persistent disk SSD|Local SSD disk|RAM disk|
 |---|---|---|---|---|
 |Data redundancy|Yes|Yes|No|No|
