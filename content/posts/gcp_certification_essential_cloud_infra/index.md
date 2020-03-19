@@ -8,7 +8,7 @@ displayInMenu: false
 displayInList: true
 ---
 
-# GCP - Cloud Certification - Associate Cloud Engineer Cheat Sheer
+# GCP - Cloud Certification - Associate Cloud Engineer
 
 ### Compute Services:
 - Compute Engine
