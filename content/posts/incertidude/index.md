@@ -14,4 +14,4 @@ Appreciating the truth of trial recordings I'll put in the category "Songbook" s
 
 Hope you'll enjoy.
 
-{{<aplayer title="Incertidude" author="Stephan" musicurl="/posts/recording_incertidude/incertidude.mp3">}}
+{{<aplayer title="Incertidude" author="Stephan" musicurl="/posts/incertidude/incertidude.mp3">}}
