@@ -14,6 +14,7 @@
         fixed: true,{{else}}{{end}}{{if and (eq (.Get `mini`) "true") (ne (.Get `fixed`) "true")}}
         mini: true,{{else}}{{end}}{{if (isset .Params `lrcfile`)}}
         lrcType: 3,{{else}}{{end}}
+        loop: 'none',
         audio: [{
             name: {{.Get `title`}},
             artist: {{.Get `author`}},
