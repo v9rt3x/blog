@@ -12,6 +12,8 @@ There is not much in life which is certain in terms of what your senses are tell
 
 Appreciating the truth of trial recordings I'll put in the category "Songbook" some of my self composed songs. Beside the fact that I like trial recordings I'm also not the best in recording. Maybe all the stuff can be recorded professionally some day. Until then you'll have to listen to my mobile phone recordings. But they could be worse. In the end the most important thing is to get access to the melody.
 
-Hope you'll enjoy.
+Some parts might be not to 100 percent correct played and the recording is also sometimes broken.
+I used a looping station to program the percussions and to records the riff.
+Hope you'll enjoy anyway.
 
 {{<aplayer title="Incertidude" author="Stephan" musicurl="/posts/incertidude/incertidude.mp3">}}
