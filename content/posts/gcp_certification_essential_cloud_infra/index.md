@@ -339,3 +339,5 @@ Primary use case|General Workloads|Container Workloads|Scalable web apps, Mobile
   - Default network, auto network, and custom network.
 - What is one benefit of applying firewall rules by tag rather than by address?
   - When a VM is created with a matching tag, the firewall rules apply irrespective of the IP address it is assigned.
+- Without a VPC network, you cannot create VM instances, containers, or App Engine applications.
+  - True
