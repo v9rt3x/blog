@@ -8,5 +8,5 @@ theme = "aether"
 brand = "v9rt3x"
 description = "Music, Programming"
 #homeimg = "URL to the image used for the home button at the bottom of each posts - optional"
-bgimg = "img/painting.png"
+bgimg = "img/ignasi_pattern_s.png"
 #rssinmenu = whether you would like a RSS feed link to appear in the navigation menu (true, false) - optional
