@@ -1,6 +1,6 @@
 ---
 title: "Cloud Certification - Core Services"
-date: 2020-03-26T16:31:12+01:00
+date: 2020-03-26T12:00:12+01:00
 description: "This is the third chapter of the way towards the Associate GCP Cloud Certification."
 draft: false
 categories: ["Certification"]
